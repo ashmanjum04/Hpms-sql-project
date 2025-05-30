@@ -36,3 +36,7 @@ This is a simple Hospital Management System built using **SQLite** and operated 
    ```bash
    sqlite3 hpms.db
 
+AUTHOR
+
+Ashmanjum
+BSC computer science student 
